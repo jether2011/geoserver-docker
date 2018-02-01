@@ -5,3 +5,10 @@
 
 - JAI and IMAGE IO
 - Data-dir: /data/geoserver
+
+# Credits
+- Tim Sutton (tim@kartoza.com)
+- Shane St Clair (shane@axiomdatascience.com)
+- Alex Leith (alexgleith@gmail.com)
+
+`https://github.com/kartoza/docker-geoserver`
